@@ -43,3 +43,4 @@ Notebook: ML_Task_2.ipynb
 - `ML_Task_2.ipynb`
 - `ML-Task CW 2025.pdf`: Task description
 - `README.md`: This file
+- `Task_1_Bonus`: Describing plot images provided
